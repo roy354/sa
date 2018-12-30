@@ -1,0 +1,1 @@
+samsung,xiaomi,alcatel,wiko,google,zte,acer,huawei,oppo,microsoft,tecno,nokia,realme,vodafone,panasonic,son,oneplus,energizer,infinix,lg,meizu,cat,yu,htc,vivo,lava,verykool,motorola,asus,micromax,maxwest,lenovo,blackberry,blu,blum,spc,rog,hp,andromax,smartfren
